@@ -1,5 +1,5 @@
 # Use an alpine image
-FROM ubuntu:impish-20220415 AS builder
+FROM ubuntu:impish-20220427 AS builder
 
 # metainformation
 LABEL version="0.0.1"
