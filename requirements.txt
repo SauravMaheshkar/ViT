@@ -6,5 +6,5 @@ pre-commit==2.19.0
 pytest==7.1.2
 scipy==1.8.0
 tensorflow==2.8.0
-tensorflow-gpu==2.8.0
+tensorflow-gpu==2.9.0
 wandb==0.12.16
